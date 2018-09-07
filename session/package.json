@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "koa-mysql-session": "^0.0.2",
+    "koa-session-minimal": "^3.0.4"
+  }
+}
